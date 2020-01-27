@@ -4,10 +4,11 @@
 
 export const environment = {
   production: false,
-  region: 'your region',
-  userPoolId: 'your user pool id',
-  userPoolWebClientId: 'your client id',
+  region: 'us-east-1',
+  userPoolId: 'us-east-1_5lEh3OMZ1',
+  userPoolWebClientId: '1qjfl43sh55rp9imc9qcf7sscp',
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
